@@ -1,0 +1,18 @@
+
+{
+  "expo": {
+    "name": "MF- MISS FANTASY",
+    "slug": "mf-miss-fantasy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "web": {
+      "bundler": "metro",
+      "output": "single"
+    },
+    "plugins": [],
+    "platforms": [
+      "web"
+    ]
+  }
+}
